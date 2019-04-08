@@ -1,0 +1,231 @@
+Visa,4640471920019099,Carl Mcclure,Austria,398,3587$,7/2023
+Visa,4208240422050462,Paul Foster,Saint Lucia,478,2698$,11/2022
+Visa,4001076984650813,Joe Chan,Cuba,840,1561$,11/2024
+Visa,4234045345828797,Addison Griffith,Kyrgyzstan,434,2845$,2/2023
+Visa,4129603822977384,Noah Maldonado,St. Pierre and Miquelon,325,1775$,11/2024
+Visa,4625220288396550,Samantha Horne,Suriname,532,3568$,3/2022
+Visa,4748503478583083,Michael Morgan,Niue,656,4658$,5/2023
+Visa,4416804265077094,Monte Hayes,Bangladesh,375,1728$,11/2024
+Visa,4950951465531297,Alyssa Guerrero,Ethiopia,308,441$,6/2024
+Visa,4177376642519741,Joseph Moran,Central African Republic,862,2497$,7/2024
+Visa,4470596364618686,Landon Wagner,Turkmenistan,796,2094$,1/2024
+Visa,4086686555001424,Ava Waters,Canada,823,1917$,11/2024
+Visa,4640073699472226,Aaron Mccarty,Oman,938,3932$,4/2024
+Visa,4328916760077085,David Moore,Tunisia,822,802$,6/2023
+Visa,4048275778669428,William Rowland,Western Sahara,127,2432$,1/2024
+Visa,4246983771671974,Mark Ballard,Canada,685,2136$,10/2023
+Visa,4326844137222642,Edward Luna,Uzbekistan,789,2513$,1/2023
+Visa,4806446124041859,Ryan Yang,Uganda,345,1570$,2/2022
+Visa,4302279765558736,Alexis Cash,Thailand,621,4965$,9/2024
+Visa,4746746218239126,Joseph Stein,Kyrgyzstan,774,3401$,10/2024
+Visa,4753080154110483,George Cortez,United States,228,2590$,3/2023
+Visa,4456952711380413,Jackson Cruz,Georgia,255,3797$,11/2023
+Visa,4305484854532413,Hannah Finch,French Southern Territories,432,242$,10/2023
+Visa,4822211025144727,Joe Carr,United Arab Emirates,246,3582$,5/2022
+Visa,4483462677634263,Nathan Garner,Nigeria,154,310$,3/2023
+Visa,4981760348744925,Victor Madden,Israel,411,1695$,1/2024
+Visa,4124454173899834,Daniel Sparks,Uganda,434,854$,9/2023
+Visa,4800499874487604,William Stuart,Grenada,582,3983$,11/2023
+Visa,4110232571519717,Tyler Britt,East Timor,615,2584$,5/2024
+Visa,4377670264818896,Abigail Cooper,Netherlands Antilles,852,553$,5/2024
+Visa,4713619990840990,Steve Melton,Uruguay,764,1899$,2/2023
+Visa,4047661452934736,Matthew Ortiz,Brunei Darussalam,292,1024$,12/2024
+Visa,4973698550480533,Walter Jacobs,United States,764,1573$,4/2023
+Visa,4588613097449351,Roger Harris,Guinea,118,3529$,2/2023
+Visa,4489652134107838,Elizabeth Yates,Spain,368,3861$,5/2022
+Visa,4303743069384957,Emily David,Gabon,767,1688$,9/2023
+Visa,4544350775093861,Jayden Trujillo,Hungary,188,1229$,7/2024
+Visa,4295208586963949,Ike Solis,South Georgia and the South Sandwich Islands,132,3268$,5/2023
+Visa,4272682838267365,Roger Hebert,Guyana,347,1549$,2/2023
+Visa,4353467247938828,Emma Perez,Togo,189,4870$,5/2024
+Visa,4978016849827122,Jos Curtis,Guadeloupe,160,2178$,1/2024
+Visa,4999100567965119,Michael Lamb,Australia,568,4688$,3/2023
+Visa,4733218085133456,James Holland,Cape Verde,379,1317$,10/2023
+Visa,4039728883898937,Mark Lancaster,Finland,959,361$,4/2022
+Visa,4348440504638892,Gabriel Baldwin,Djibouti,533,3859$,3/2024
+Visa,4839877472015601,Elijah Bonner,Guinea-Bissau,291,4380$,5/2024
+Visa,4158290162980774,Walter Gonzalez,Chad,140,3001$,11/2023
+Visa,4426189004918321,Christopher Brennan,Guadeloupe,167,1389$,4/2023
+Visa,4549714421919677,Otto Henson,Tokelau,228,3427$,3/2023
+Visa,4686532225549620,Jack Robertson,Aruba,961,2649$,2/2024
+Visa,4950090053268457,Edward Burgess,Ghana,291,4452$,2/2024
+Visa,4427467294638877,Elizabeth Reid,Montserrat,950,2159$,7/2024
+Visa,4549052112342804,Emily Sawyer,Montserrat,416,671$,4/2023
+Visa,4145533858851916,Thomas Foster,Northern Mariana Islands,708,1553$,10/2024
+Visa,4122012930714308,David Winters,Gibraltar,753,1068$,10/2022
+Visa,4198265146784502,Elijah Pope,French Polynesia,195,4257$,2/2023
+Visa,4050746497792035,Alex Hansen,Philippines,197,2179$,4/2023
+Visa,4760243196159410,Andrew Owen,Egypt,635,2590$,9/2022
+Visa,4146056318759320,Jos Ellison,Argentina,699,4889$,4/2024
+Visa,4158830337968442,Elijah Navarro,Saint Vincent and the Grenadines,820,2326$,4/2022
+Visa,4399312564039055,Abigail Crosby,Pitcairn,942,2140$,5/2023
+Visa,4031149599206281,Victor Newton,Switzerland,947,3285$,5/2024
+Visa,4816282119562148,Jose Cabrera,Canada,845,3279$,11/2024
+Visa,4992297146755388,Natalie Sexton,Equatorial Guinea,126,3653$,4/2023
+Visa,4438255977044894,Madison Bright,Mayotte,364,4329$,1/2024
+Visa,4148273590114060,Isabella Chaney,South Africa,616,2741$,9/2024
+Visa,4276755227294731,Jayden Hooper,Papua New Guinea,643,4021$,6/2024
+Visa,4158848670667314,Larry Mack,Lebanon,922,3508$,12/2022
+Visa,4498709743546035,Grace Hopkins,Turkmenistan,825,448$,11/2023
+Visa,4761732049054546,Steve Moss,Bulgaria,988,4021$,8/2022
+Visa,4736444771631424,Julia Donaldson,Guinea,697,3310$,1/2023
+Visa,4432137129413217,Otto Sexton,Bangladesh,283,4700$,4/2022
+Visa,4429946875341280,Aiden Merrill,Philippines,218,3371$,8/2024
+Visa,4420933792912574,Hannah Weeks,Saint Kitts and Nevis,575,4311$,5/2024
+Visa,4013152878455381,Emma Munoz,Korea, Democratic People's Republic of,214,1704$,8/2022
+Visa,4017082486191738,Andrew Strong,Bermuda,778,2315$,6/2023
+Visa,4611509965510244,Joshua Brock,Latvia,853,3108$,6/2023
+Visa,4683404553194671,Emily Emerson,Guyana,611,4916$,12/2022
+Visa,4526619402762581,Roger Vazquez,Dominican Republic,231,2768$,8/2022
+Visa,4340949160162417,Alyssa Boyle,Burkina Faso,806,2374$,11/2023
+Visa,4090811144222158,Edward Spencer,Virgin Islands (British),541,349$,11/2023
+Visa,4579513578674199,Andrew Franklin,Cayman Islands,124,4352$,9/2022
+Visa,4311633981575222,Carl Pena,Djibouti,253,2216$,5/2023
+Visa,4117369844697400,Jos Hyde,Nepal,231,4039$,7/2024
+Visa,4427992567652156,Michael Hinton,Afghanistan,312,4924$,11/2022
+Visa,4660562772507788,Elizabeth Barry,Seychelles,267,2231$,4/2024
+Visa,4805259028547066,Mia Small,Haiti,252,1603$,3/2023
+Visa,4461978890896211,Nathan Mueller,Mauritania,316,2849$,7/2024
+Visa,4173208558869501,Hannah Workman,East Timor,460,4942$,11/2024
+Visa,4340799003195276,Roger Wilkinson,Germany,869,3833$,10/2023
+Visa,4062839264282003,Ike Franklin,Palau,131,2785$,11/2022
+Visa,4765536828389122,Nathan Irwin,Turkmenistan,207,1539$,11/2022
+Visa,4729925471281519,Natalie Fletcher,Fiji,665,3485$,7/2024
+Visa,4975726825583886,Abigail Lopez,Nicaragua,307,4566$,3/2022
+Visa,4072912146595013,Tyler Hendrix,Lebanon,656,2216$,4/2023
+Visa,4406524544028880,Thomas Stuart,Georgia,767,2116$,5/2022
+Visa,4775899390829646,Otto Jensen,Nigeria,143,1256$,8/2023
+Visa,4093684957743991,Aiden Mckee,Lesotho,661,4216$,6/2024
+Visa,4951003451196096,Olivia Banks,Guinea,226,701$,4/2022
+Visa,4025235149423852,Noah Noble,Argentina,707,3874$,9/2022
+Visa,4435431827780739,Hannah Davenport,Cayman Islands,415,2896$,1/2023
+Visa,4664969124395588,Nathan Blackwell,Estonia,622,4100$,1/2024
+Visa,4418818250302273,Ashley Sexton,New Zealand,654,408$,1/2023
+Visa,4562503942601035,Addison Castaneda,India,722,2820$,1/2024
+Visa,4781177986290065,Ava Jackson,Sierra Leone,995,3649$,12/2023
+Visa,4515270410771173,Walter Whitley,Grenada,288,3339$,11/2022
+Visa,4625151822898852,Ava Cameron,Lebanon,306,1591$,9/2024
+Visa,4387076899549708,Paul Becker,Vanuatu,320,1690$,6/2023
+Visa,4857381897367090,Edward Barber,Zimbabwe,408,1511$,5/2023
+Visa,4592521500060802,Grace Bonner,Suriname,685,2583$,2/2022
+Visa,4195972987456586,Ty Carlson,Monaco,610,2954$,4/2022
+Visa,4511972942457924,Monte Payne,Brazil,322,1598$,1/2022
+Visa,4784184459969719,Jose Holder,Turkey,841,4029$,10/2023
+Visa,4963553868187662,Isabella Lambert,Romania,804,2941$,4/2022
+Visa,4951411825160096,Jack Avila,Gabon,296,4464$,2/2022
+Visa,4065605815685540,Joseph Tyler,United States Minor Outlying Islands,785,872$,1/2023
+Visa,4278467788027017,Jes Horne,Solomon Islands,584,2359$,12/2022
+Visa,4117473395367585,Joe Noble,Maldives,365,4465$,11/2024
+Visa,4982165713507148,Katherine Park,Togo,839,4021$,4/2024
+Visa,4465754780017697,Daniel Hull,Suriname,465,2317$,6/2023
+Visa,4333693278434644,Alyssa Adams,Singapore,709,4159$,2/2024
+Visa,4627848681668767,James Jefferson,Cote d'Ivoire,280,3434$,8/2023
+Visa,4663003735728945,Roger Bryan,Greece,303,1090$,5/2022
+Visa,4821298515481488,Ashley Sykes,Togo,129,2188$,12/2023
+Visa,4002358190156606,Emily Marks,Comoros,355,1551$,4/2024
+Visa,4654382193786673,Matthew Robles,American Samoa,306,3303$,1/2023
+Visa,4637471161212960,George Lynn,Ireland,565,3678$,6/2023
+Visa,4529166568361359,Monte Huffman,Afghanistan,779,1010$,11/2024
+Visa,4560494566039029,Alyssa Tate,Sweden,527,2865$,7/2024
+Visa,4883483024195556,Ava Carson,Hungary,499,339$,3/2023
+Visa,4244671802702189,George Pickett,Belarus,833,1515$,9/2024
+Visa,4159920476311501,Ryan Robles,St. Helena,852,4460$,1/2024
+Visa,4779931205996140,Monte Schmidt,Turkey,299,3691$,11/2024
+Visa,4138604094677818,Ty Walters,Hong Kong,726,2289$,10/2022
+Visa,4963234946128032,Jayden Ballard,Norway,662,527$,12/2022
+Visa,4478813893681651,Brianna Knight,Kyrgyzstan,525,3624$,10/2023
+Visa,4107631567700618,Alyssa Dalton,Latvia,889,997$,8/2022
+Visa,4180861928645562,Ryan Newman,Egypt,554,919$,12/2024
+Visa,4698745290943660,Tyler Russo,Zambia,939,2170$,1/2023
+Visa,4987013677774236,Carl Oconnor,Equatorial Guinea,794,3404$,7/2023
+Visa,4181482644450176,Aaron May,Poland,496,3287$,2/2022
+Visa,4845481358034950,Peter Webster,Tokelau,303,4208$,9/2024
+Visa,4302536778080226,Frank Hart,Pitcairn,142,4834$,6/2022
+Visa,4107288640474123,Matthew Delaney,Lithuania,135,1146$,3/2022
+Visa,4632319216295768,Tyler Dejesus,French Polynesia,504,454$,8/2023
+Visa,4796633885959757,Joseph Christensen,Norfolk Island,994,4176$,9/2024
+Visa,4516736376073787,Brooklyn Jackson,Yugoslavia,292,3444$,11/2022
+Visa,4323997410918733,Emma Carroll,Singapore,108,2309$,6/2024
+Visa,4364145914266221,Katherine Mueller,Lebanon,481,744$,12/2024
+Visa,4882990574254790,Isabella Herring,Romania,757,4709$,9/2022
+Visa,4993216405563274,Elijah Cooke,Kazakhstan,602,3706$,5/2022
+Visa,4053524544438325,Ben Wilkinson,Netherlands Antilles,305,4367$,3/2022
+Visa,4276887222815630,Anthony Potts,Solomon Islands,252,1890$,2/2023
+Visa,4041974699262886,Alex Lopez,France,526,2003$,5/2022
+Visa,4020772304479373,Brianna Morse,Monaco,121,1182$,10/2024
+Visa,4381368207857246,Roger Foreman,Senegal,378,4821$,2/2022
+Visa,4159080114874012,Julia Raymond,Czech Republic,873,3016$,5/2024
+Visa,4996382827207663,Daniel Thomas,Bahrain,644,3418$,6/2024
+Visa,4377157835814703,Edward Foreman,Cambodia,923,4303$,2/2023
+Visa,4627643593935937,Ben Burns,Dominican Republic,431,1499$,4/2023
+Visa,4149006417474609,Natalie Riley,Mauritania,578,4457$,7/2022
+Visa,4271908042479103,Joshua Kramer,Macau,101,1319$,6/2022
+Visa,4990007507419736,Larry Poole,Slovenia,158,4305$,9/2024
+Visa,4930885383463255,John Wiley,Cayman Islands,750,3165$,12/2024
+Visa,4015107850421239,Christopher Austin,Wallis and Futuna Islands,188,2432$,3/2023
+Visa,4165957069403891,Tyler Garrison,Norway,259,4674$,9/2022
+Visa,4691224906304797,Mia Calhoun,Hungary,628,2536$,4/2024
+Visa,4184987573556394,Dan Orr,Sudan,390,2918$,12/2024
+Visa,4711644507326731,Etha Simon,Slovenia,632,2242$,7/2023
+Visa,4105665478046739,Thomas Herrera,Mozambique,876,1391$,8/2024
+Visa,4580156207751454,Aiden Pugh,Fiji,285,2134$,9/2024
+Visa,4835946297299007,Emily Hewitt,Senegal,270,2277$,1/2022
+Visa,4151784192119996,Ryan Williamson,Jordan,161,1785$,5/2024
+Visa,4389017207983013,Ike Mcguire,Antarctica,734,4535$,7/2023
+Visa,4617992713661069,Daniel Roberts,Micronesia, Federated States of,400,319$,11/2024
+Visa,4249740740107853,Mark Dunlap,Hungary,224,1211$,12/2023
+Visa,4178949998070433,Alyssa Shaw,Ethiopia,538,2436$,8/2022
+Visa,4207542117747174,Addison Cortez,Somalia,162,2015$,3/2023
+Visa,4214897271791157,Mark Zamora,Vanuatu,228,949$,2/2023
+Visa,4417155731836699,Otto Vasquez,Mayotte,723,4974$,12/2022
+Visa,4115581781954337,Jos Chen,Latvia,846,3336$,4/2022
+Visa,4402657317864794,Tyler Reeves,Slovakia (Slovak Republic),996,4942$,1/2024
+Visa,4880303355485942,Daniel Branch,Seychelles,679,2325$,6/2024
+Visa,4286123357495297,Ava Patrick,Israel,926,3659$,8/2024
+Visa,4523272246193143,Hank Mcgowan,Portugal,843,2359$,5/2022
+Visa,4764454573000764,David Mayer,Norfolk Island,587,3388$,3/2023
+Visa,4607087883683308,Hunter Lott,Yugoslavia,958,3315$,2/2024
+Visa,4204701718846537,Roger Deleon,St. Pierre and Miquelon,544,707$,6/2023
+Visa,4277748804300913,Jackson Bridges,Falkland Islands (Malvinas),520,4282$,11/2024
+Visa,4667038313002749,Jose Workman,Ghana,479,3835$,4/2022
+Visa,4672556622974558,Ashley Hewitt,Tuvalu,152,3471$,5/2024
+Visa,4766116789846144,David Atkinson,Macau,521,985$,8/2022
+Visa,4659284268026032,Roger Kaufman,Ukraine,743,2845$,1/2023
+Visa,4759818455090365,Julia Bridges,Martinique,596,1058$,10/2022
+Visa,4162815999620757,Matthew Skinner,Croatia (Hrvatska),668,1781$,9/2023
+Visa,4279257585612940,Emily Montoya,Georgia,276,425$,6/2024
+Visa,4833227390432437,Thomas Dean,Wallis and Futuna Islands,990,2378$,6/2022
+Visa,4839487188635971,Anthony Dean,Botswana,544,1354$,2/2023
+Visa,4335678617336244,Natalie Mccarty,Mayotte,539,165$,4/2024
+Visa,4923510821264136,Michael Neal,Kenya,378,868$,12/2024
+Visa,4689941098942894,Emma Anderson,Saint Vincent and the Grenadines,141,4795$,8/2022
+Visa,4800282793169069,Anna Tyler,Puerto Rico,341,641$,6/2024
+Visa,4612804954805617,Grace York,Chad,504,2962$,6/2022
+Visa,4596332059534858,Addison Gould,Saudi Arabia,944,4152$,12/2023
+Visa,4435261950404454,Jes Hammond,American Samoa,575,1269$,4/2022
+Visa,4990829299437828,David Summers,Tuvalu,551,1056$,3/2024
+Visa,4177741655319315,Fred Roman,Taiwan, Province of China,910,314$,12/2023
+Visa,4373211619061181,David Mills,Canada,192,1860$,12/2022
+Visa,4273042003065988,Jes Stevens,Malawi,269,2355$,1/2022
+Visa,4075201291598510,William Preston,Albania,880,730$,12/2023
+Visa,4030154166446212,Ike Golden,Botswana,704,2057$,5/2023
+Visa,4580184523612424,Ben Justice,Yugoslavia,236,347$,8/2022
+Visa,4409339890047757,Katherine Serrano,France Metropolitan,165,1226$,1/2024
+Visa,4030886014495632,Thomas Lyons,French Polynesia,500,371$,5/2023
+Visa,4954907052210535,Joe Roth,Liechtenstein,246,3317$,1/2024
+Visa,4563836498578846,Roger Frost,Sudan,733,1715$,3/2022
+Visa,4767408133672071,Elijah Whitney,Ethiopia,404,1733$,3/2022
+Visa,4319078188896678,Roger Everett,Lesotho,853,1058$,10/2023
+Visa,4097803183430647,Etha Mooney,Estonia,766,2219$,5/2022
+Visa,4490520437164680,Walter Brady,Marshall Islands,584,4428$,6/2024
+Visa,4612573502612433,Ty Mckinney,Netherlands Antilles,513,4220$,9/2024
+Visa,4960244149232179,Jayden Woods,Maldives,902,3562$,10/2022
+Visa,4589583091134862,Michael Chaney,Namibia,516,3078$,11/2023
+Visa,4531904078862086,Anthony Huber,Papua New Guinea,401,3182$,1/2022
+Visa,4470811421518310,Jos Hayes,Sao Tome and Principe,439,297$,6/2022
+Visa,4016636072571925,Christopher Dudley,Macau,390,4348$,8/2024
+Visa,4902470394031930,Ben Blevins,Guadeloupe,444,2443$,7/2023
+Visa,4296905056155372,Samantha Anderson,Macedonia, The Former Yugoslav Republic of,235,3830$,10/2023
+Visa,4541998806116169,Victor Morris,Saint Kitts and Nevis,172,4867$,6/2023
+Visa,4186829499766186,George Avila,Saint Lucia,126,2090$,4/2024
+  
