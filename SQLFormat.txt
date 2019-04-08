@@ -1,0 +1,154 @@
+("Visa","4208240422050462","Paul Foster","Saint Lucia","478","2698","11/2022
+"),
+("Visa","4129603822977384","Noah Maldonado","St. Pierre and Miquelon","325","1775","11/2024
+"),
+("Visa","4416804265077094","Monte Hayes","Bangladesh","375","1728","11/2024
+"),
+("Visa","4470596364618686","Landon Wagner","Turkmenistan","796","2094","1/2024
+"),
+("Visa","4328916760077085","David Moore","Tunisia","822","802","6/2023
+"),
+("Visa","4326844137222642","Edward Luna","Uzbekistan","789","2513","1/2023
+"),
+("Visa","4746746218239126","Joseph Stein","Kyrgyzstan","774","3401","10/2024
+"),
+("Visa","4305484854532413","Hannah Finch","French Southern Territories","432","242","10/2023
+"),
+("Visa","4981760348744925","Victor Madden","Israel","411","1695","1/2024
+"),
+("Visa","4110232571519717","Tyler Britt","East Timor","615","2584","5/2024
+"),
+("Visa","4047661452934736","Matthew Ortiz","Brunei Darussalam","292","1024","12/2024
+"),
+("Visa","4489652134107838","Elizabeth Yates","Spain","368","3861","5/2022
+"),
+("Visa","4295208586963949","Ike Solis","South Georgia and the South Sandwich Islands","132","3268","5/2023
+"),
+("Visa","4978016849827122","Jos Curtis","Guadeloupe","160","2178","1/2024
+"),
+("Visa","4039728883898937","Mark Lancaster","Finland","959","361","4/2022
+"),
+("Visa","4158290162980774","Walter Gonzalez","Chad","140","3001","11/2023
+"),
+("Visa","4686532225549620","Jack Robertson","Aruba","961","2649","2/2024
+"),
+("Visa","4549052112342804","Emily Sawyer","Montserrat","416","671","4/2023
+"),
+("Visa","4198265146784502","Elijah Pope","French Polynesia","195","4257","2/2023
+"),
+("Visa","4146056318759320","Jos Ellison","Argentina","699","4889","4/2024
+"),
+("Visa","4031149599206281","Victor Newton","Switzerland","947","3285","5/2024
+"),
+("Visa","4438255977044894","Madison Bright","Mayotte","364","4329","1/2024
+"),
+("Visa","4158848670667314","Larry Mack","Lebanon","922","3508","12/2022
+"),
+("Visa","4736444771631424","Julia Donaldson","Guinea","697","3310","1/2023
+"),
+("Visa","4420933792912574","Hannah Weeks","Saint Kitts and Nevis","575","4311","5/2024
+"),
+("Visa","4611509965510244","Joshua Brock","Latvia","853","3108","6/2023
+"),
+("Visa","4340949160162417","Alyssa Boyle","Burkina Faso","806","2374","11/2023
+"),
+("Visa","4311633981575222","Carl Pena","Djibouti","253","2216","5/2023
+"),
+("Visa","4660562772507788","Elizabeth Barry","Seychelles","267","2231","4/2024
+"),
+("Visa","4173208558869501","Hannah Workman","East Timor","460","4942","11/2024
+"),
+("Visa","4765536828389122","Nathan Irwin","Turkmenistan","207","1539","11/2022
+"),
+("Visa","4072912146595013","Tyler Hendrix","Lebanon","656","2216","4/2023
+"),
+("Visa","4093684957743991","Aiden Mckee","Lesotho","661","4216","6/2024
+"),
+("Visa","4435431827780739","Hannah Davenport","Cayman Islands","415","2896","1/2023
+"),
+("Visa","4562503942601035","Addison Castaneda","India","722","2820","1/2024
+"),
+("Visa","4625151822898852","Ava Cameron","Lebanon","306","1591","9/2024
+"),
+("Visa","4592521500060802","Grace Bonner","Suriname","685","2583","2/2022
+"),
+("Visa","4784184459969719","Jose Holder","Turkey","841","4029","10/2023
+"),
+("Visa","4065605815685540","Joseph Tyler","United States Minor Outlying Islands","785","872","1/2023
+"),
+("Visa","4982165713507148","Katherine Park","Togo","839","4021","4/2024
+"),
+("Visa","4627848681668767","James Jefferson","Cote d'Ivoire","280","3434","8/2023
+"),
+("Visa","4002358190156606","Emily Marks","Comoros","355","1551","4/2024
+"),
+("Visa","4529166568361359","Monte Huffman","Afghanistan","779","1010","11/2024
+"),
+("Visa","4244671802702189","George Pickett","Belarus","833","1515","9/2024
+"),
+("Visa","4138604094677818","Ty Walters","Hong Kong","726","2289","10/2022
+"),
+("Visa","4107631567700618","Alyssa Dalton","Latvia","889","997","8/2022
+"),
+("Visa","4987013677774236","Carl Oconnor","Equatorial Guinea","794","3404","7/2023
+"),
+("Visa","4302536778080226","Frank Hart","Pitcairn","142","4834","6/2022
+"),
+("Visa","4796633885959757","Joseph Christensen","Norfolk Island","994","4176","9/2024
+"),
+("Visa","4364145914266221","Katherine Mueller","Lebanon","481","744","12/2024
+"),
+("Visa","4053524544438325","Ben Wilkinson","Netherlands Antilles","305","4367","3/2022
+"),
+("Visa","4020772304479373","Brianna Morse","Monaco","121","1182","10/2024
+"),
+("Visa","4996382827207663","Daniel Thomas","Bahrain","644","3418","6/2024
+"),
+("Visa","4149006417474609","Natalie Riley","Mauritania","578","4457","7/2022
+"),
+("Visa","4930885383463255","John Wiley","Cayman Islands","750","3165","12/2024
+"),
+("Visa","4691224906304797","Mia Calhoun","Hungary","628","2536","4/2024
+"),
+("Visa","4105665478046739","Thomas Herrera","Mozambique","876","1391","8/2024
+"),
+("Visa","4151784192119996","Ryan Williamson","Jordan","161","1785","5/2024
+"),
+("Visa","4249740740107853","Mark Dunlap","Hungary","224","1211","12/2023
+"),
+("Visa","4214897271791157","Mark Zamora","Vanuatu","228","949","2/2023
+"),
+("Visa","4402657317864794","Tyler Reeves","Slovakia (Slovak Republic)","996","4942","1/2024
+"),
+("Visa","4523272246193143","Hank Mcgowan","Portugal","843","2359","5/2022
+"),
+("Visa","4204701718846537","Roger Deleon","St. Pierre and Miquelon","544","707","6/2023
+"),
+("Visa","4672556622974558","Ashley Hewitt","Tuvalu","152","3471","5/2024
+"),
+("Visa","4759818455090365","Julia Bridges","Martinique","596","1058","10/2022
+"),
+("Visa","4833227390432437","Thomas Dean","Wallis and Futuna Islands","990","2378","6/2022
+"),
+("Visa","4923510821264136","Michael Neal","Kenya","378","868","12/2024
+"),
+("Visa","4612804954805617","Grace York","Chad","504","2962","6/2022
+"),
+("Visa","4990829299437828","David Summers","Tuvalu","551","1056","3/2024
+"),
+("Visa","4273042003065988","Jes Stevens","Malawi","269","2355","1/2022
+"),
+("Visa","4580184523612424","Ben Justice","Yugoslavia","236","347","8/2022
+"),
+("Visa","4954907052210535","Joe Roth","Liechtenstein","246","3317","1/2024
+"),
+("Visa","4319078188896678","Roger Everett","Lesotho","853","1058","10/2023
+"),
+("Visa","4612573502612433","Ty Mckinney","Netherlands Antilles","513","4220","9/2024
+"),
+("Visa","4531904078862086","Anthony Huber","Papua New Guinea","401","3182","1/2022
+"),
+("Visa","4902470394031930","Ben Blevins","Guadeloupe","444","2443","7/2023
+"),
+("Visa","4186829499766186","George Avila","Saint Lucia","126","2090","4/2024
+"),
